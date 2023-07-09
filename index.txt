@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Pradip Prajapati  
+Pradip Prajapati
+Systems Engineer
 
 Show Contacts
 
